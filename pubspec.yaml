@@ -1,0 +1,20 @@
+name: auto_height_grid_view
+description: This package provides a customizable, responsive grid view widget for building dynamic layouts with variable height items. It automatically adjusts the height of each grid item based on its content.
+version: 1.0.0
+homepage: https://github.com/3kdeveloper
+repository: https://github.com/3kdeveloper/auto_height_grid_view
+
+environment:
+  sdk: '>=2.19.4 <3.0.0'
+  flutter: ">=1.17.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.1
+
+flutter:
